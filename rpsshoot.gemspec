@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Command Line Rock Paper Scissors game}
   spec.description   = %q{Command Line Rock Paper Scissors game}
-  spec.homepage      = https://github.com/MariahAcacia/rpsshoot
+  spec.homepage      = https://github.com/MariahAcacia/rpsshoot.git
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
