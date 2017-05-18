@@ -11,6 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Command Line Rock Paper Scissors game}
   spec.description   = %q{Command Line Rock Paper Scissors game}
+  spec.files         = ["lib/rpsshoot.rb", "lib/rpsshoot/player.rb"]
   spec.homepage      = "https://github.com/MariahAcacia/rpsshoot.git"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
